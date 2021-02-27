@@ -18,4 +18,6 @@ It's a description!
 It's another description!
 [Another link](https://www.investopedia.com/terms/f/fintech.asp)
 
+[data folder](https://github.com/Alexandrah613/Fintech/tree/main/data)
+
 
