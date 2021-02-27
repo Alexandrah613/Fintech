@@ -11,7 +11,7 @@ I did a second change.
 
 ## Header 2
 It's a description!
-[Fintech Wiki] (https://en.wikipedia.org/wiki/Financial_technology)
+[Fintech] (https://en.wikipedia.org/wiki/Financial_technology)
 
 ### Header 3
 
